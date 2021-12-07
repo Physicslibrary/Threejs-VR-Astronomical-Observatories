@@ -3,7 +3,7 @@ An experiment to recreate VR experience of astronomical observatories around the
 
 <img src="images/1.jpg" width="640">
 
-The Canadian Hydrogen Intensity Mapping Experiment (CHIME) radio telescope is located in Penticton, British Columbia, Canada. Each telescope is a 100m x 20m cylindrical reflector. The grey-white columns approximated a person (1.8m tall).<br>
+The Canadian Hydrogen Intensity Mapping Experiment (CHIME) radio telescope is located in Penticton, British Columbia, Canada. Each telescope is a 100m x 20m cylindrical reflector. The grey-white columns are 1.8m tall.<br>
 
 # Hardware
 
@@ -17,7 +17,7 @@ No installation. In Oculus Quest, open Oculus Browser and:<br>
 
 [https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime.html)
 
-Should work (no VR) on web browsers (latest Chrome, Firefox, Safari) on smartphones and desktop/laptop computers. Code threejs_vr_chime.html has threejs' orbit controls to allow camera to orbit around a target (one/two/pinch/slide fingers for mobile devices, and 3-button mouse for others).<br> 
+Should work (no VR) on web browsers (latest Chrome, Firefox, Safari) on smartphones and desktop/laptop computers. Code threejs_vr_chime.html has threejs' orbit controls to allow camera to look around a target (one/two/pinch/slide fingers for mobile devices, and 3-button mouse for others).<br> 
 
 The code is simple and minimal (no teleportation or error checking). It is an experiment. Use to jumpstart other experiments.<br>
 
