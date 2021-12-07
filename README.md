@@ -33,7 +33,11 @@ The code is simple and minimal (no teleportation or error checking). It is an ex
 <img src="images/9.jpg" width="640">
 
 # Credits
- 
+
+This experiment is inspired from a collaboration with organizers, educators, astrophysicists, writers, programmers at<br>
+
+https://www.stemxr.org/<br>
+
 ESA\_Gaia\_DR2\_AllSky\_Brightness\_Colour\_Cartesian\_2000x1000.png<br>
 Date: 25 April 2018<br>
 Satellite: Gaia<br>
