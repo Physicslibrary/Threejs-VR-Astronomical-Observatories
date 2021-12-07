@@ -5,7 +5,9 @@ An experiment to recreate VR experience of astronomical observatories around the
 
 # Hardware
 
-Oculus Quest (tested Quest One, update 35.0, Oculus browser 18.0)
+Oculus Quest (tested Quest One, update 35.0, Oculus browser 18.0)<br>
+
+(may work on other VR headsets with Chrome 96.0 and Firefox 94.0)<br>
 
 # Installation
 
@@ -31,6 +33,12 @@ A computer graphics tool to create, import, and export 3D models.<br>
 
 https://www.blender.org/<br>
 
+chime-dec-7-2021.glb<br>
+created using Blender<br>
+(CC BY 4.0)<br>
+
+chime-dem-dec-7-2021.glb<br>
+derived from USGS GeoTIFF n49_w120_1arc_v3.tif, QGIS, and Blender.<br>
 
 # References
 
