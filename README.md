@@ -13,6 +13,8 @@ Oculus Quest (tested Quest One, update 35.0, Oculus browser 18.0)<br>
 
 No installation. In Oculus Quest, open Oculus Browser and:<br>
 
+[https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime.html)
+
 # Credits
  
 ESA\_Gaia\_DR2\_AllSky\_Brightness\_Colour\_Cartesian\_2000x1000.png<br>
