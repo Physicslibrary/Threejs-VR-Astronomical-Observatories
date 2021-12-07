@@ -21,6 +21,8 @@ Should work (no VR) on web browsers (latest Chrome, Firefox, Safari) on smartpho
 
 The code is simple and minimal (no teleportation or error checking). It is an experiment. Use to jumpstart other experiments.<br>
 
+[https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime-1-to-100-scale.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime-1-to-100-scale.html)
+
 # A short tutorial on how to make 3D glTF from DEM geoTIFF. (under construction)<br>
 
 <img src="images/2.jpg" width="640">
