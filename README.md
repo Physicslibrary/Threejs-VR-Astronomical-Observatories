@@ -50,7 +50,7 @@ U.S. Geological Survey's Earth Explorer for DEM (Digital Elevation Map) data.<br
 
 https://earthexplorer.usgs.gov/<br>
 
-A free and open source geographic information system to merge DEM with satellite images to export a 3D model (glTF format) for threejs.<br>
+A free and open source geographic information system to merge DEM with satellite images to export 3D models (glTF format) for threejs.<br>
 
 https://qgis.org/en/site/<br>
 
