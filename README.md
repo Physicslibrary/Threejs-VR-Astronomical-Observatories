@@ -23,7 +23,7 @@ Code is minimal (no teleportation or error checking). It is an experiment. Use t
 
 [https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime-1-to-10-scale.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime-1-to-10-scale.html)
 
-# A short tutorial on how to make 3D glTF from DEM geoTIFF. (under construction)<br>
+# A short tutorial on making 3D glTF from DEM geoTIFF. (under construction)<br>
 
 <img src="images/2.jpg" width="640">
 <img src="images/3.jpg" width="640">
