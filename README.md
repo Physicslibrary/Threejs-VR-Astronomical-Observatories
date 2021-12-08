@@ -36,7 +36,7 @@ The code is simple and minimal (no teleportation or error checking). It is an ex
 
 # Credits
 
-This experiment is inspired from a collaboration with organizers, educators, astrophysicists, writers, programmers at<br>
+This experiment is inspired from a collaboration with organizers, astrophysicists, educators, writers, programmers at<br>
 
 https://www.stemxr.org/<br>
 
