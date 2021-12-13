@@ -19,7 +19,7 @@ No installation. In Oculus Quest, open Oculus Browser and:<br>
 
 Should work (no VR) on web browsers (latest Chrome, Firefox, Safari) on smartphones and desktop/laptop computers. Code threejs_vr_chime.html has threejs' orbit controls to allow camera to look around a target (one/two/pinch/slide fingers for mobile devices, and 3-button mouse for others).<br> 
 
-Code is minimal (no teleportation or error checking). It is an experiment. Use to jumpstart other experiments.<br>
+Code is minimal (no teleportation or error checking). It is an experiment to jumpstart other experiments.<br>
 
 [https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime-1-to-10-scale.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/threejs_vr_chime-1-to-10-scale.html)
 
