@@ -60,13 +60,15 @@ https://chime-experiment.ca/en
 			{
 				"imports": {
 					"three": "../build/three.module.js"
+					"three/examples/jsm/webxr/VRButton.js":"./jsm/webxr/VRButton.js",
+					"three/examples/jsm/loaders/GLTFLoader.js":"./jsm/loaders/GLTFLoader.js",
+					"three/examples/jsm/controls/OrbitControls":"./jsm/controls/OrbitControls.js",
 				}
 			}
 		</script>
 
 	<script type="module">
 			import * as THREE from 'three';
-//			import * as THREE from 'three';
 			import { VRButton } from './jsm/webxr/VRButton.js';
 			import { GLTFLoader } from './jsm/loaders/GLTFLoader.js';
 			import { OrbitControls } from './jsm/controls/OrbitControls.js';
