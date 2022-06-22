@@ -58,11 +58,11 @@ A computer graphics tool to create, import, and export 3D models.<br>
 
 https://www.blender.org/<br>
 
-chime-dec-7-2021.glb<br>
+chime-june-22-2022.glb<br>
 created using Blender<br>
 (CC BY 4.0)<br>
 
-chime-dem-dec-7-2021.glb<br>
+chime-dem-june-22-2022.glb<br>
 derived from USGS GeoTIFF n49_w120_1arc_v3.tif, QGIS, and Blender.<br>
 
 # References
