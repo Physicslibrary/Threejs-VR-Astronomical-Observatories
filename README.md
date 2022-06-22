@@ -1,29 +1,29 @@
-# Threejs-VR-Astronomical-Observatories (updating)
+# Threejs-VR-Astronomical-Observatories (updated)
 An experiment to recreate VR experience of astronomical observatories around the world.
 
 <img src="images/1.jpg" width="640">
 
-The Canadian Hydrogen Intensity Mapping Experiment (CHIME) radio telescope is located in Penticton, British Columbia, Canada. Each telescope is a 100m x 20m cylindrical reflector. The grey-white columns are 1.8m tall.<br>
+The Canadian Hydrogen Intensity Mapping Experiment (CHIME) radio telescope is located in Penticton, British Columbia, Canada. Each telescope is a 100m x 20m cylindrical reflector.<br>
 
 # Hardware
 
-Oculus Quest (tested Quest One, update 35.0, Oculus browser 18.0)<br>
+Oculus Quest (tested Quest One, update 41.0, Meta Quest browser 22.0)<br>
 
-(should work on other VR headsets in Chrome 96.0 and Firefox 94.0)<br>
+Three.js r141 (a minimal subset of r141)<br>
+
+File threejs_vr_chime.html developed and tested on Raspberry Pi 4 and Raspberry Pi OS (2022)<br>
 
 # Installation
 
-No installation. In Oculus Quest, open Oculus Browser and:<br>
+No installation. In Oculus Quest, open Meta Quest browser and:<br>
 
 [https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/examples/threejs_vr_chime.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/examples/threejs_vr_chime.html)
-
-(feb 2022, under construction, link disabled)<br>
 
 Should work (no VR) on web browsers (latest Chrome, Firefox, Safari) on smartphones and desktop/laptop computers. Code threejs_vr_chime.html has threejs' orbit controls to allow camera to look around a target (one/two/pinch/slide fingers for mobile devices, and 3-button mouse for others).<br> 
 
 Code is minimal (no error checking or physics simulation). An experiment to jumpstart other experiments.<br>
 
-# A short tutorial on making 3D glTF from DEM geoTIFF. (under construction)<br>
+# Pictorial hints on making 3D glTF from DEM geoTIFF.<br>
 
 <img src="images/2.jpg" width="640">
 <img src="images/3.jpg" width="640">
