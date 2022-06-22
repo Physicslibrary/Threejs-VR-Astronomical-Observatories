@@ -15,7 +15,7 @@ Oculus Quest (tested Quest One, update 35.0, Oculus browser 18.0)<br>
 
 No installation. In Oculus Quest, open Oculus Browser and:<br>
 
-[https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/examples/threejs_vr_chime.html.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/examples/threejs_vr_chime.html)
+[https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/examples/threejs_vr_chime.html](https://physicslibrary.github.io/Threejs-VR-Astronomical-Observatories/examples/threejs_vr_chime.html)
 
 (feb 2022, under construction, link disabled)<br>
 
